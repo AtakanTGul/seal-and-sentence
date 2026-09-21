@@ -10,6 +10,19 @@ A medieval border-inspection game about documents, difficult decisions, and the 
 | :--- | :--- | :--- |
 | In development · Steam page live | Unity · C# | Public project showcase |
 
+## Screenshots
+
+Screenshots from development builds. Interface and features may change before release.
+
+<img src="screenshot-01.png" alt="Merchant document comparison" width="960">
+
+*Merchant document comparison*
+
+<img src="screenshot-02.png" alt="Entry permit inspection" width="960">
+
+*Entry permit inspection*
+
+
 ## The experience
 
 - Inspect travel papers, seals, and suspicious cargo.
